@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16066225.css",
+    "main.js": "/static/js/main.12880867.js",
+    "static/media/myImage.png": "/static/media/myImage.708108b91acf710c69c7.png",
+    "static/media/MyImage.png": "/static/media/MyImage.f4ad21afc5925c4a7e3f.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Suresh_Kumar_R_Resume.pdf": "/static/media/Suresh_Kumar_R_Resume.5e02a496612bf5d8d8da.pdf",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "static/media/NavLogo.svg": "/static/media/NavLogo.0525f53f718e8bd4c7feb3beaaf6067c.svg",
+    "main.16066225.css.map": "/static/css/main.16066225.css.map",
+    "main.12880867.js.map": "/static/js/main.12880867.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16066225.css",
+    "static/js/main.12880867.js"
+  ]
+}
